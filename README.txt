@@ -7,3 +7,16 @@ Tujuan dan Harapan
 Aplikasi yang ditukan untuk Abang Penjual Gerobak Dorong unttuk memasarkan daganganya dengan teknologi dan internet.
 Manfaat untuk masyarakat sebagai penyelamat kelaparan untuk yang malas keluar, dan ingin makan murah. 
 Membantu meningkatkan penjualan abang gerobak.
+
+Market
+Pasar utama ditujukan untuk abang penjual makanan atau minuman gerobak
+Pasar turunan :
+- Iklan disetiap gerobak
+- Layanan catering untuk pesta misal hajatan atau nikah
+
+Platform Utama
+Android Apps
+
+
+
+ © All Right Reserved. Created By Muhammad Ramli. For more information ✆ 0857 1088 9411 (Call/SMS/WA).
