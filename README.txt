@@ -4,7 +4,7 @@ Pada suatu hari ketika saya lapar lalu mendengar suara abang makanan melintasi j
 Sejak kejadian itu saya berpikir bagaimana caranya membantu penjual gerobak dorong untuk mengetahui pembelinya. karena selama ini mereka berjualan hanya dengan menjual peruntungan klo laku syukur klo galaku ya alhamdulillah. maka dari itu saya bulatkan niat dan tekad untuk membantu mereka semua untuk maju bersama menuju era digital. 
 
 Tujuan dan Harapan
-Aplikasi yang ditukan untuk Abang Penjual Gerobak Dorong unttuk memasarkan daganganya dengan teknologi dan internet.
+Aplikasi yang ditujukan untuk Abang Penjual Gerobak Dorong unttuk memasarkan daganganya dengan teknologi dan internet.
 Manfaat untuk masyarakat sebagai penyelamat kelaparan untuk yang malas keluar, dan ingin makan murah. 
 Membantu meningkatkan penjualan abang gerobak.
 
@@ -16,6 +16,24 @@ Pasar turunan :
 
 Platform Utama
 Android Apps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
